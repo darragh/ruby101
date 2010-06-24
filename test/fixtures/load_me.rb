@@ -1,0 +1,1 @@
+$load_count =  $load_count.nil? ? 1 : $load_count + 1
