@@ -23,5 +23,3 @@ end
 d = DDD.new
 d.x = 5
 
-puts d.x
-puts DDD.x
